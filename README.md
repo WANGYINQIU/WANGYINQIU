@@ -13,7 +13,7 @@ Welcome to my Github page! I'm WANGYINQIU and I'm currently on MSc program in Vo
 
 ### 📖 I am studying:
 - Python
-- English
+- Speech Sounds
 - Machine Learning
 
 ### 🎮 Things I'm interesed in recently:
