@@ -1,16 +1,24 @@
-### Hi there 👋
+## Hi there 👋 This is WANG YINQIU! 😶‍🌫️
 
-<!--
-**WANGYINQIU/WANGYINQIU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/WANGYINQIU)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](y.wang.283@student.rug.nl)
 
-Here are some ideas to get you started:
+Welcome to my Github page! I'm WANGYINQIU and I'm currently on MSc program in Voice Technology at University of Groningen, Netherland.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 💪 Things I am challenging myself with:
+- Improve My English in speaking and listening
+- Communicate and make friends with others(I'm introverted)
+- Be brave to try new things in Netherlands
+
+### 📖 I am studying:
+- Python
+- English
+- Machine Learning
+
+### 🎮 Things I'm interesed in recently:
+- The legend of Zelda
+- Little Nightmares 2
+- SUP Paddle Board
+
+[![WANGYINQIU's GitHub stats](https://github-readme-stats.vercel.app/api?username=WANGYINQIU)](http://github.com/WANGYINQIU/github-readme-stats)
