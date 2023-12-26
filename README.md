@@ -1,8 +1,5 @@
 ## Hi there 👋 This is WANG YINQIU! 😶‍🌫️
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/WANGYINQIU)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:y.wang.283@student.rug.nl)
-
 Welcome to my Github page! I'm WANGYINQIU and I'm currently on MSc program in Voice Technology at University of Groningen, Netherland.
 
 
